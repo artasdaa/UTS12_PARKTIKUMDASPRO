@@ -57,7 +57,7 @@ public class soal212 {
                 maxRata = rata;
                 kotaMax = i + 1;
             }
-
+            
             if (rata < minRata) {
                 minRata = rata;
                 kotaMin = i + 1;

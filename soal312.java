@@ -94,7 +94,7 @@ public class soal312 {
                     System.out.println("Kursi terisi : " + terisi);
                     break;
 
-                // 5. Keluar
+                //Keluar
                 case 5:
                     System.out.println("Program selesai. Terima kasih!");
                     break;
